@@ -1,7 +1,7 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1jq4T12Nsv66c2uOfbtmJuvlIeeoRX067)
 
 <h1 align="center">Hi 👋, I'm Kaustubh Chavan</h1>
-<h3 align="justify">As a passionate and enthusiastic techie, I love to explore developments in Web technologies, Java, Python, C++, Artiﬁcial Intelligence, Machine Learning, Cloud computing and Data Science. Also, I'm persuing a bachelor's degree in computer engineering with honours in Data Science. <br>This makes me an ideal candidate not only for the roles involving ML and AI, but also positions involving Full Stack Development, software development, application development and many others. I am good in debugging and flexible in programming using documentations. Collaboration, Teamwork, Communication, Adaptibility and Interpersonal Skills are some of my strong tools in my belt.</h3>
+<h3 align="justify">As a technological aspirant, I love to explore developments in Web technologies, Java, Python, C++, Artiﬁcial Intelligence, Machine Learning, Cloud computing and Data Science. Also, I'm persuing a bachelor's degree in computer engineering with honours in Data Science. <br>This makes me an ideal candidate not only for the roles involving ML and AI, but also positions involving Full Stack Development, software development, application development and many others. I am good in debugging and flexible in programming using documentations. Collaboration, Teamwork, Communication, Adaptibility and Interpersonal Skills are some of my strong tools in my belt.</h3>
 
 
 
