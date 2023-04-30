@@ -1,7 +1,17 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1jq4T12Nsv66c2uOfbtmJuvlIeeoRX067)
 
 <h1 align="center">Hi 👋, I'm Kaustubh Chavan</h1>
-<h3 align="left">As a technological aspirant, I love to explore developments in Web technologies, Java, Python, C++, Artiﬁcial Intelligence, Machine Learning, Cloud computing and Data Science. Also, I'm persuing a bachelor's degree in computer engineering with honours in Data Science. <br>This makes me an ideal candidate not only for the roles involving ML and AI, but also positions involving Full Stack Development, software development, application development and many others. I am good in debugging and flexible in programming using documentations. Collaboration, Teamwork, Communication, Adaptibility and Interpersonal Skills are some of my strong tools in my belt.</h3>
+<h3 align="left">Are you looking for a versatile and enthusiastic software engineering student who can work with various programming languages and technologies? Well, look no further! My name is Kaustubh Chavan, and I'm currently pursuing my Bachelor's degree in Computer Engineering.
+
+I have a solid foundation in C++, Java, and Python programming languages, as well as experience with backend web development and relational databases like MySQL. I'm also familiar with non-relational databases like MongoDB, NodeJS and servers. Additionally, I have an understanding of data science, artificial intelligence, machine learning, software engineering and cloud computing.
+
+My Github account showcases a variety of projects and contributions that demonstrate my skills and eagerness to learn. From simple scripts to web applications, I have built several projects in different fields, including Project Management and Music.
+
+I have worked with various frameworks such as ReactJS, ExpressJS, GraphQL, NodeJS and have some experience with Tensorflow as well. I have also worked with version control systems like Git and have some knowledge of DevOps practices.
+
+Although I don't have much experience, I have a passion for learning and exploring new technologies. I have an analytical mind and a problem-solving approach, which helps me tackle complex challenges effectively.
+
+If you're looking for a dedicated and enthusiastic software engineering student who is eager to learn and grow, then I'm the perfect candidate for you. Feel free to browse my Github account and see my potential. Let's work together to build amazing things!</h3>
 
 
 
